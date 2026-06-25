@@ -5,11 +5,6 @@
   if (tg) {
     tg.ready();
     tg.expand();
-    const user = tg.initDataUnsafe && tg.initDataUnsafe.user;
-    if (user) {
-      const label = user.username ? `@${user.username}` : `${user.first_name || "Користувач"}`;
-      document.getElementById("userLabel").textContent = label;
-    }
   }
 
   function setStatus(text) {
