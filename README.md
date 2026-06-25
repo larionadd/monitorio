@@ -1,6 +1,6 @@
-# Media Monitor Mini App
+# Monitorio Mini App
 
-Static Telegram Mini App for the Media Monitor bot.
+Static Telegram Mini App for the Monitorio bot.
 
 GitHub Pages URL:
 
